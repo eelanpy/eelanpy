@@ -2,6 +2,7 @@
 - 🌱 I’m currently learning JS(DOM, Node, React.Js)
 - Some of my hobbies are:
   - Biking
+  - Playing Soccer with my friends
   - Playing at the park
   - School(studying)
   - And of course, coding! 
